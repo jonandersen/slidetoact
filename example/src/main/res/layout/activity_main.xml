@@ -23,6 +23,8 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="8dp"
+            app:slider_icon="@drawable/ic_arrow_right"
+            app:slider_icon_color="@color/colorPrimary"
             android:elevation="6dp"
             app:text="Sample SlideToActView" />
 
